@@ -21,8 +21,8 @@
 */
 
 	return array(
-		'about' => 'About',
-		'add_user_x_favorites' => 'Add user ^ to my favorites',
+		'about' => 'Tentang',
+		'add_user_x_favorites' => 'Tambahkan pengguna ^ sebagai favorit',
 		'approve_required' => 'Please wait for your account to be approved or ^1add more information^2.',
 		'approve_title' => 'User approval pending',
 		'approve_user_button' => 'Approve User',
