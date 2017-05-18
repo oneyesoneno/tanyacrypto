@@ -21,11 +21,11 @@
 */
 
 	return array(
-		'1_answer_title' => '1 Answer',
-		'a_convert_to_c' => 'Convert this answer into a comment',
-		'a_convert_to_c_on' => 'Convert this answer into a comment on:',
-		'a_convert_warn' => 'Warning: This conversion cannot be reversed.',
-		'a_convert_warn_cs' => 'Warning: This conversion cannot be reversed and will also move this answer\'s comments.',
+		'1_answer_title' => '1 Jawaban',
+		'a_convert_to_c' => 'Konversasikan jawaban ini kepada komentar',
+		'a_convert_to_c_on' => 'Konversasikan jawaban ini kepada komentar di:',
+		'a_convert_warn' => 'Perhatian: Konversi ini tidak bisa dibalik.',
+		'a_convert_warn_cs' => 'Perhatian: Konversi ini tidak bisa dibalik dan akan memindahkan jawaban ini kepada komentar.',
 		'a_notify_email' => 'Email me at this address if my answer is selected or commented on:',
 		'a_notify_label' => 'Email me if my answer is selected or commented on',
 		'a_notify_x_label' => 'Email me (^) if my answer is selected or commented on',
